@@ -16,5 +16,5 @@ ini akan mempermudah pembeli maupun kasir dalam proses pembayaran.
 
 Cara Compile:
 1. Iterator : run javac Menu.java 
-2. Singleton : run yg LoginClient.java
-3. State : run SmartCashierTestDrive.java
+2. Singleton : run javac LoginClient.java
+3. State : run javac SmartCashierTestDrive.java
