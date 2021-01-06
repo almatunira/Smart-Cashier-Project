@@ -1,0 +1,20 @@
+PROJECT ARSITEKTUR PERANGKAT LUNAK
+KELOMPOK: 
+INTAN WAHYUNI (1808107010020)
+SITTY ALMATUNIRA (1808107010029)
+
+SMART CASHIER
+DESKRIPSI: 
+Smart Cashier adalah kasir pintar yang dapat melakukan scan barang secara mandiri 
+yang dilakukan oleh pembeli. Fitur yang tersedia pada aplikasi Smart Cashier ini 
+antara lain, yaitu mulai dari scan barang secara langsung, melihat list barang yang 
+telah dibeli, mengetahui jumlah yang akan dibayar, menampilkan code terhadap barang 
+yang telah berhasil discan jika ingin membayar secara langsung dikasir toko, dapat 
+membayar secara E-Banking, dan memiliki sistem keamanan untuk dapat menjaga barang 
+jualan agar tidak dicuri atau dibawa pergi tanpa dibayar. Maka dengan adanya aplikasi 
+ini akan mempermudah pembeli maupun kasir dalam proses pembayaran.
+
+Cara Compile:
+1. Iterator : run javac Menu.java 
+2. Singleton : run yg LoginClient.java
+3. State : run SmartCashierTestDrive.java
